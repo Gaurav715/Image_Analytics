@@ -46,9 +46,5 @@ The gif below will help understand the points better
 ![mark4points](images/mark4points.gif)
 ![mark4points](images/pedestrian.gif)
 
-## How does it work?
-The complete block diagram of the algorithm can be seen below.
-![Block Diagram](images/block_diagram.png)
 
-A detailed article on the working of this project can be found [here](https://medium.com/@aqeel.anwar/monitoring-social-distancing-using-ai-c5b81da44c9f)
 
