@@ -52,4 +52,3 @@ The complete block diagram of the algorithm can be seen below.
 
 A detailed article on the working of this project can be found [here](https://medium.com/@aqeel.anwar/monitoring-social-distancing-using-ai-c5b81da44c9f)
 
-__Idea credits: LandingAI__
